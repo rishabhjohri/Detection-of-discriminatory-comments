@@ -1,0 +1,33 @@
+body {
+  background-image: url('{{ STATIC_URL }}C:/Users/Rishabh Johri/Desktop/Demonstration/capstone/mystaticfiles/4562472.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+#a{
+  color: white;
+  font-size: 40px;
+}
+#b{
+  transition-duration: 0.4s;
+  border-radius: 12px;
+  font-size: 32px;
+  background-color: #4CAF50;
+}
+#b:hover {
+  background-color: gold;
+  color: white;
+}
+#c{
+  background-image: url('{{ STATIC_URL }}C:/Users/Rishabh Johri/Desktop/Demonstration/capstone/mystaticfiles/19366.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  font-size: 32px;
+}
