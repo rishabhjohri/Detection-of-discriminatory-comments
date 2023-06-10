@@ -1,0 +1,1 @@
+use the data (csv / rar) from the DATA folder and ipynp files from this folder to create the four sub-models
